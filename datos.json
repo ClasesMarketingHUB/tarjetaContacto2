@@ -1,5 +1,5 @@
 {
-  "nombre": "Tu Nombre Completo",
+    "nombre": "Tu Nombre Completo",
   "email": "tuemail@ejemplo.com",
   "telefonoCompleto": "+34693500740",
   "telefonoMostrado": "+34 693 500 740",
@@ -8,11 +8,20 @@
   "descripcion": "Docente CFGS Marketing y Publicidad",
   "web": "https://fp.kingscorner.es",
   "ubicacion": "Zaragoza , España",
+  "redes": {
+    "linkedin": "https://linkedin.com/in/tuusuario",
+    "github": "https://github.com/tuusuario",
+    "instagram": "@tuusuario"
   },
-  
+  "empresa_datos": {
+    "nombre": "Nombre de la Empresa",
+    "email": "empresa@ejemplo.com",
+    "web": "https://empresa.com"
+  },
   "diseno": {
-    "colorPrincipal": "#00FF22",
+   "colorPrincipal": "#00FF22",
     "colorFondo": "#000000",
     "colorAcento": "#FF0000"
   }
+}
 
